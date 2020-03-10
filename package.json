@@ -1,0 +1,18 @@
+{
+  "name": "onedrive",
+  "version": "1.0.0",
+  "description": "Automation For OneDrive Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome --timeout 20000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.0",
+    "mochawesome": "^5.0.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
